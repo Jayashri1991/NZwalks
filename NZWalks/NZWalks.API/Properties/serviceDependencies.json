@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "mssql3": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:NZWalksconnectionstrings2",
+      "dynamicId": null
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:NZWalksAuthConnectionString1",
+      "dynamicId": null
+    },
+    "mssql2": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:NZWalksconnectionstrings1",
+      "dynamicId": null
+    }
+  }
+}

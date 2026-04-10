@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "mssql3": {
+      "ignored": "true",
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:NZWalksconnectionstrings2",
+      "dynamicId": null
+    },
+    "mssql2": {
+      "ignored": "true",
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:NZWalksconnectionstrings1",
+      "dynamicId": null
+    },
+    "mssql1": {
+      "ignored": "true",
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:NZWalksAuthConnectionString1",
+      "dynamicId": null
+    }
+  }
+}
